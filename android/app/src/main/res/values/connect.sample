@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="connect_url">https://my.host.org</string>
-    <!-- 
+    <!--
         Use this URL to connect to localhost from the emulator.
         In order to connect from a physical device, find the external IP of
         your laptop, and use http://<external_ip>:8080
